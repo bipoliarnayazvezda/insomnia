@@ -8,7 +8,7 @@ bookdown::gitbook:
       after: |
         <li><em><a href="./" target="blank">Александра Булгакова</a></em></li>
     download:
-      - ["insomnia.pdf", "PDF"]
+      #- ["insomnia.pdf", "PDF"]
       - ["insomnia.epub", "EPUB"]
     search:
       engine: lunr
