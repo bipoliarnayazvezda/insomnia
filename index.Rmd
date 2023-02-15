@@ -4,15 +4,14 @@ author: "Александра Булгакова"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: https://bipoliarnayazvezda.github.io/insomnia/
 # cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  Демонстрационный пример.
+description: 
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: bipoliarnayazvezda/insomnia
 ---
 
-# Эпиграф {-}
+# &ast;&ast;&ast; {-}
 
 _Эта история не о биполярном расстройстве личности, хотя оно здесь есть._
 
