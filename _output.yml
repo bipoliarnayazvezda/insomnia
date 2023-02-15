@@ -6,7 +6,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Бессонница</a></li>
       after: |
-        <li><em><a href="./" target="blank">Александра Булгакова</a></em></li>
+        <li><em><a href="https://bipoliarnayazvezda.github.io/" target="blank">Александра Булгакова</a></em></li>
     download:
       #- ["insomnia.pdf", "PDF"]
       - ["insomnia.epub", "EPUB"]
