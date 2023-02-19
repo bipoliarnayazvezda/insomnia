@@ -8,23 +8,14 @@ bookdown::gitbook:
       after: |
         <li><em><a href="https://bipoliarnayazvezda.github.io/" target="blank">Александра Булгакова</a></em></li>
     download:
-      #- ["insomnia.pdf", "PDF"]
       - ["insomnia.epub", "EPUB"]
+      - ["insomnia.docx", "DOCX"]
+      - ["insomnia.pdf", "PDF"]
     search:
       engine: lunr
     edit : null
     info: false
     sharing: null
-    #   facebook: true
-    #   twitter: true
-    #   vk: true
-    #   whatsapp: true
-
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
-  toc_depth: 2
 bookdown::epub_book: default
+bookdown::word_document2:
+  toc: true

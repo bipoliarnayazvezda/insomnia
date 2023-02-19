@@ -1,0 +1,20 @@
+project:
+  type: book
+
+book:
+  title: "Бессонница"
+  author: "Александра Булгакова"
+  chapters:
+
+    - _main.Rmd
+
+format:
+  pdf:
+    toc-depth: 2
+    documentclass: scrreprt
+    mainfont: Arial
+    papersize: a5paper
+
+
+
+

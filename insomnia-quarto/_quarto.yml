@@ -1,0 +1,126 @@
+project:
+  type: book
+  output-dir: ../docs
+
+book:
+  title: "Бессонница"
+  author: "Александра Булгакова"
+  chapters:
+    - index.qmd
+    - ../001.Rmd
+    - ../002.Rmd
+    - ../003.Rmd
+    - ../004.Rmd
+    - ../005.Rmd
+    - ../006.Rmd
+    - ../007.Rmd
+    - ../008.Rmd
+    - ../009.Rmd
+    - ../010.Rmd
+    - ../011.Rmd
+    - ../012.Rmd
+    - ../013.Rmd
+    - ../014.Rmd
+    - ../015.Rmd
+    - ../016.Rmd
+    - ../017.Rmd
+    - ../018.Rmd
+    - ../019.Rmd
+    - ../020.Rmd
+    - ../021.Rmd
+    - ../022.Rmd
+    - ../023.Rmd
+    - ../024.Rmd
+    - ../025.Rmd
+    - ../026.Rmd
+    - ../027.Rmd
+    - ../028.Rmd
+    - ../029.Rmd
+    - ../030.Rmd
+    - ../031.Rmd
+    - ../032.Rmd
+    - ../033.Rmd
+    - ../034.Rmd
+    - ../035.Rmd
+    - ../036.Rmd
+    - ../037.Rmd
+    - ../038.Rmd
+    - ../039.Rmd
+    - ../040.Rmd
+    - ../041.Rmd
+    - ../042.Rmd
+    - ../043.Rmd
+    - ../044.Rmd
+    - ../045.Rmd
+    - ../046.Rmd
+    - ../047.Rmd
+    - ../048.Rmd
+    - ../049.Rmd
+    - ../050.Rmd
+    - ../051.Rmd
+    - ../052.Rmd
+    - ../053.Rmd
+    - ../054.Rmd
+    - ../055.Rmd
+    - ../056.Rmd
+    - ../057.Rmd
+    - ../058.Rmd
+    - ../059.Rmd
+    - ../060.Rmd
+    - ../061.Rmd
+    - ../062.Rmd
+    - ../063.Rmd
+    - ../064.Rmd
+    - ../065.Rmd
+    - ../066.Rmd
+    - ../067.Rmd
+    - ../068.Rmd
+    - ../069.Rmd
+    - ../070.Rmd
+    - ../071.Rmd
+    - ../072.Rmd
+    - ../073.Rmd
+    - ../074.Rmd
+    - ../075.Rmd
+    - ../076.Rmd
+    - ../077.Rmd
+    - ../078.Rmd
+    - ../079.Rmd
+    - ../080.Rmd
+    - ../081.Rmd
+    - ../082.Rmd
+    - ../083.Rmd
+    - ../084.Rmd
+    - ../085.Rmd
+    - ../086.Rmd
+    - ../087.Rmd
+    - ../088.Rmd
+    - ../089.Rmd
+    - ../090.Rmd
+    - ../091.Rmd
+    - ../092.Rmd
+    - ../093.Rmd
+    - ../094.Rmd
+    - ../095.Rmd
+    - ../096.Rmd
+    - ../097.Rmd
+    - ../098.Rmd
+    - ../099.Rmd
+    - ../100.Rmd
+    - ../101.Rmd
+    - ../102.Rmd
+    - ../103.Rmd
+
+format:
+  pdf:
+    output-file: "insomnia.pdf"
+    toc-depth: 2
+    fontfamily: libertinus
+    documentclass: scrreprt
+    papersize: a5paper
+  docx:
+    toc-title: "Index"
+
+
+
+

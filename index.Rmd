@@ -6,7 +6,7 @@ site: bookdown::bookdown_site
 documentclass: book
 url: https://bipoliarnayazvezda.github.io/insomnia/
 # cover-image: path to the social sharing image like images/cover.jpg
-description: 
+description: ""
 link-citations: yes
 github-repo: bipoliarnayazvezda/insomnia
 ---
