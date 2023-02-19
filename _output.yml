@@ -17,5 +17,3 @@ bookdown::gitbook:
     info: false
     sharing: null
 bookdown::epub_book: default
-bookdown::word_document2:
-  toc: true

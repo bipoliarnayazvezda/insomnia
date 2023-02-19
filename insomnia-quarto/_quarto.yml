@@ -119,7 +119,8 @@ format:
     documentclass: scrreprt
     papersize: a5paper
   docx:
-    toc-title: "Index"
+    output-file: "insomnia.docx"
+    toc-title: "Оглавление"
 
 
 
