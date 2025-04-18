@@ -19,7 +19,7 @@ github-repo: bipoliarnayazvezda/insomnia
 > --- Летов
 
 
-```{r img, echo = FALSE, out.width = '100%'}
+```{r img, echo = FALSE, out.width = '90%'}
 knitr::include_graphics("images/cover.jpg")
 ```
 
