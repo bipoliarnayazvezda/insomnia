@@ -5,13 +5,24 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 url: https://bipoliarnayazvezda.github.io/insomnia/
-# cover-image: path to the social sharing image like images/cover.jpg
+cover-image: images/cover.jpg
 description: ""
-link-citations: yes
+link-citations: true
 github-repo: bipoliarnayazvezda/insomnia
 ---
 
 # &ast;&ast;&ast; {-}
+
+
+> "Это было не со мной — это было наугад."
+>
+> --- Летов
+
+
+```{r img, echo = FALSE, out.width = '100%'}
+knitr::include_graphics("images/cover.jpg")
+```
+
 
 _Эта история не о биполярном расстройстве личности, хотя оно здесь есть._
 
