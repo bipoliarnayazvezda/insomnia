@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 insomnia.log
+.quarto/
+.DS_Store
+*.log

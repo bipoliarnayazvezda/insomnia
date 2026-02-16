@@ -3,7 +3,7 @@ project:
   output-dir: ../docs
 
 book:
-  title: "Бессонница"
+  title: "Бессонница, Аквариум и Все мои самоубийства"
   author: "Александра Булгакова"
   chapters:
     - index.qmd

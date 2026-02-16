@@ -20,5 +20,6 @@ bookdown::render_book("index.Rmd", bookdown::epub_book())
 
 ```
 cd insomnia-quarto
-quarto render
+quarto render --to docx
+quarto render --to pdf
 ```
