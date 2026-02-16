@@ -17,7 +17,7 @@ github-repo: bipoliarnayazvezda/insomnia
 Моей маме и всем одиноким людям.
 </div>
 
-<hr>
+------
 
 > "Это было не со мной — это было наугад."
 >
