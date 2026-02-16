@@ -1,7 +1,7 @@
 --- 
-title: "Бессонница"
+title: "Бессонница, Аквариум и Все мои самоубийства"
 author: "Александра Булгакова"
-date: "`r Sys.Date()`"
+date: "2020"
 site: bookdown::bookdown_site
 documentclass: book
 url: https://bipoliarnayazvezda.github.io/insomnia/
@@ -13,6 +13,12 @@ github-repo: bipoliarnayazvezda/insomnia
 
 
 # &ast;&ast;&ast; {-}
+
+<div align=right>
+Моей маме и всем одиноким людям.
+</div>
+
+<hr>
 
 > "Это было не со мной — это было наугад."
 >

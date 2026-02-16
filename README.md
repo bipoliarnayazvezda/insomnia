@@ -15,7 +15,7 @@ The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 
 ```
 bookdown::render_book()
-bookdown::render_book("index.rmd", bookdown::epub_book())
+bookdown::render_book("index.Rmd", bookdown::epub_book())
 ```
 
 ```

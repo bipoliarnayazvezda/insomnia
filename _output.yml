@@ -4,7 +4,7 @@ bookdown::gitbook:
     toc:
       toc_depth: 1
       before: |
-        <li><a href="./">Бессонница</a></li>
+        <li><a href="./">Бессонница, Аквариум и Все мои самоубийства</a></li>
       after: |
         <li><em><a href="https://bipoliarnayazvezda.github.io/" target="blank">Александра Булгакова</a></em></li>
     download:
